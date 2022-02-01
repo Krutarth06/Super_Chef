@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Super Chef</string>
+    <string name="next">Next</string>
+    <string name="open">open_drawer</string>
+    <string name="close">close_drawer</string>
+    <string name="enter_the_ingredients_you_have">Enter the Ingredients you have</string>
+    <string name="e_g_banana">e.g. Banana</string>
+    <string name="search_recipe">Search Recipe</string>
+    <string name="indian_ingredients">🇮🇳 Indian Ingredients</string>
+    <string name="vegetables">🥕 Vegetables</string>
+    <string name="herbs_amp_spices"><![CDATA[🌿 Herbs & Spices]]></string>
+    <string name="beverages">🍷 Beverages</string>
+    <string name="desserts_amp_sweet_snacks"><![CDATA[🍰 Desserts & Sweet snacks]]></string>
+    <string name="meat_amp_poultry"><![CDATA[🍖 Meat & Poultry]]></string>
+    <string name="cheese">🧀 Cheese</string>
+    <string name="about_us">About Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="watch_recipe_on">Watch recipe on</string>
+    <string name="ingredients_getting_used">Ingredients getting used:</string>
+    <string name="ingredients_not_getting_used">Ingredients not getting used:</string>
+    <string name="unavailable_ingredients">Unavailable Ingredients:</string>
+    <string name="process">Process:</string>
+    <string name="having_too_many_items_in_your_fridge_in_varied_quantities_confuses_you">Having too many items in your fridge in varied quantities confuses you?</string>
+    <string name="well_you_ve_reached_the_right_place_key_in_the_ingredients_with_which_you_want_to_cook_and_explore_innumerable_number_of_recipes">Well, you\'ve reached the right place!! Key in the ingredients with which you want to cook and explore innumerable number of recipes.</string>
+    <string name="no_idea_what_dish_to_make_with_those_items">No idea, what dish to make with those items?</string>
+    <string name="prashanthgurunath_tequip_in">prashanthgurunath@tequip.in</string>
+    <string name="share_on_whatsapp">Share on Whatsapp</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="home">Home</string>
+    <string name="share_app">Share app</string>
+    <string name="rate_app">Rate app</string>
+    <string name="app_logo">App Logo</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="intro_slider_two_image">Intro Slider two Image</string>
+    <string name="intro_slider_three_image">Intro Slider three Image</string>
+    <string name="intro_slider_one_image">Intro Slider one Image</string>
+    <string name="back_button">Back button</string>
+    <string name="add_button">Add button</string>
+
+    <string-array name="Indian_Ingredients">
+        <item>Basmati Rice</item>
+        <item>Jaggery</item>
+        <item>Chickpeas</item>
+        <item>Kidney Beans</item>
+        <item>Mung Beans</item>
+        <item>Rice Flour</item>
+        <item>Wheat Flour</item>
+        <item>Chilly</item>
+        <item>Lemon</item>
+        <item>Coconut Milk</item>
+        <item>Yogurt</item>
+        <item>Pomegranate Seeds</item>
+        <item>Ghee</item>
+        <item>Tamarind</item>
+        <item>Chicken</item>
+        <item>Mutton</item>
+        <item>Fish</item>
+        <item>Shrimp</item>
+        <item>Egg</item>
+        <item>Prawn</item>
+    </string-array>
+
+    <string-array name="Vegetables">
+        <item>Cabbage</item>
+        <item>Onion</item>
+        <item>Potato</item>
+        <item>Jackfruit</item>
+        <item>Fenugreek leaves</item>
+        <item>Tomato</item>
+        <item>Cluster beans</item>
+        <item>Coriander</item>
+        <item>Lemon</item>
+        <item>Chilly</item>
+    </string-array>
+
+    <string-array name="Herbs_and_spices">
+        <item>Cinnamon</item>
+        <item>Basil</item>
+        <item>Cilantro</item>
+        <item>Garlic Powder</item>
+        <item>Oregano</item>
+        <item>Paprika</item>
+        <item>Chilly powder</item>
+        <item>Cumin</item>
+        <item>Ground ginger</item>
+        <item>Thyme</item>
+        <item>Peppermint</item>
+        <item>Rosemary</item>
+        <item>Stevia</item>
+    </string-array>
+
+    <string-array name="Beverages">
+        <item>Orange juice</item>
+        <item>Coffee</item>
+        <item>Apple juice</item>
+        <item>Pineapple juice</item>
+        <item>Lemonade</item>
+        <item>Coconut water</item>
+        <item>Tea</item>
+    </string-array>
+
+    <string-array name="Desserts">
+        <item>Chocolate chips</item>
+        <item>Chocolate</item>
+        <item>Dark chocolate</item>
+        <item>Marshmallow</item>
+        <item>Graham cracker</item>
+        <item>Bittersweet chocolate</item>
+        <item>Oreo</item>
+        <item>White chocolate chips</item>
+    </string-array>
+
+    <string-array name="Meat">
+        <item>Bacon</item>
+        <item>Fish</item>
+        <item>Shrimp</item>
+        <item>Egg</item>
+        <item>Prawn</item>
+        <item>Chicken</item>
+        <item>Chicken Breasts</item>
+        <item>Diced Goat meat</item>
+        <item>Turkey</item>
+        <item>Mutton</item>
+        <item>Sliced ham</item>
+    </string-array>
+
+    <string-array name="Cheese">
+        <item>Parmesan Cheese</item>
+        <item>Cheddar Cheese</item>
+        <item>Cream Cheese</item>
+        <item>Ricotta Cheese</item>
+        <item>Mozzarella Cheese</item>
+        <item>Feta Cheese</item>
+        <item>Blue Cheese</item>
+        <item>Goat Cheese</item>
+        <item>Swiss Cheese</item>
+    </string-array>
+</resources>

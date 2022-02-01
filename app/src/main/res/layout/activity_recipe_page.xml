@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Recipe_page">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:contentDescription="@string/app_logo"
+        android:scaleType="fitXY"
+        android:src="@drawable/applogo" />
+
+    <TextView
+        android:id="@+id/displayingResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="10dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/recipe_page_bg">
+
+        <ProgressBar
+            android:id="@+id/main_loader_activity_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:elevation="10dp"
+            android:visibility="visible" />
+
+        <ListView
+            android:id="@+id/recipe_listView"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="26dp"
+            android:visibility="gone" />
+    </RelativeLayout>
+</LinearLayout>
